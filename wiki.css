@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif
+}
+.wiki{
+    color:white;
+    margin: 10%;
+    margin-bottom: 10px;
+
+}
+h4  {
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.BOX1{
+    color: white;
+    width: 1000px; height: 500px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+h2{
+    padding-left: 70px;
+}
+i{
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.icon{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 10px;
+
+}
+.comment{
+    float: right;
+    margin-right: -80px;
+    margin-top: 20px;
+    width: 20px;
+}
+.class-link{
+    color: white;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+a{
+    color:yellow;
+    margin: 60px;
+}
+.class-recording{
+    color: white;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.class-teams{
+    color: white;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+.class-code{
+    color: white;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+.doubt-section{
+    color: white;
+    width: 1000px; height: 200px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+table,td{
+    width:900px;
+    border: 2px solid; 
+    margin-left: 40px;
+    border-collapse: collapse;
+}
+.contact{
+    color: white;
+    width: 1000px; height: 300px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+.class-s{
+    color: white;
+    width: 1000px; height: 700px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
