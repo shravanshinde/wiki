@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #212020;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif
 }
 .wiki{
